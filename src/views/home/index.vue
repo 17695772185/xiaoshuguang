@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Footer from 'common/footer'
+import Footer from 'common/Footer/index'
 export default {
     name:'home',
     data(){

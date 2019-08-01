@@ -17,7 +17,7 @@ export default new Router({
     },
     {
       path: '/404',
-      component: () => import('views/common/NotFind')
+      component: () => import('views/common/NotFind/index.vue')
     },
     {
       path: '**',
